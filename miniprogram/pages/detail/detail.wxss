@@ -1,0 +1,11 @@
+image {
+	width: 750rpx;
+}
+
+view {
+	padding: 0 50rpx;
+}
+
+button {
+	margin: 10rpx;
+}
